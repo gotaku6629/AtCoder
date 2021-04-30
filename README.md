@@ -32,6 +32,6 @@ mainへのpushは原則厳禁.
 
 
 ## 5.ブランチの削除
-   - ローカルでmainブランチに移動する git checkout master を実行
+   - ローカルでmainブランチに移動する git checkout  を実行
    - ローカルに変更を反映する git pull origin main を実行
    - ローカルブランチを削除する git branch --delete [ブランチ名] を実行
